@@ -274,7 +274,7 @@ class KeyApp(BaseApp):
         self.app_pad.pixels.show()
 
         # Clear the display
-        self.macropad.display.show(EMPTY_DISPLAY_GROUP)
+        self.macropad.display.root_group = self.display_group
         self.macropad.display.refresh()
 
         self.settings.pixels_disabled = True
