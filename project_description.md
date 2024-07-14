@@ -1,6 +1,6 @@
 # Project Description
 
-This project is a comprehensive application designed to run on a Macropad. It includes various apps that provide different functionalities such as media controls, navigation, and more. The project is structured to be modular, with each app encapsulated in its own file, making it easy to manage and extend.
+This project is a comprehensive application designed to run on an rp2040 Macropad with Circuitpython. It includes various apps that provide different functionalities such as media controls, navigation, and more. The project is structured to be modular, with each app encapsulated in its own file, making it easy to manage and extend.
 
 ## Project Map
 

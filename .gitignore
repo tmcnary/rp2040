@@ -4,3 +4,6 @@ System Volume Information/*
 .idea/
 /user/
 /user.py
+.aider*
+.DS_Store
+utils/.DS_Store
